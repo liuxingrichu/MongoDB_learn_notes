@@ -42,3 +42,13 @@ MongoDB的默认数据库为"db"，该数据库存储在data目录中。
 - 退出
 	- exit
 
+### 异常场景 ###
+1. windows 10 执行MongoDB 出现的exception：connect failed 异常
+	- 解决方法：
+		1. 进入系统服务
+		2. 查找MongoDB Server服务
+		3. 启动其服务
+
+
+
+
